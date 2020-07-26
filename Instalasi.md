@@ -8,7 +8,7 @@
 - Composer
   - [Cara Install Composer di Windows](https://jagowebdev.com/cara-install-menjalankan-composer-di-windows)
 - Laravel 5.4
-  - Buka cmd terus masuk ke direktori apa aja dengan perintah cd *ganti nama_proyek_kamu dengan nama proyek kamu apa aja
+  - Buka cmd terus masuk ke direktori apa aja dengan perintah cd *ganti nama_proyek_kamu* dengan nama proyek kamu apa aja
  ```php
  $ composer create-project --prefer-dist laravel/laravel nama_proyek_kamu "5.4.*"
  ```
