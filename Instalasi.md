@@ -18,5 +18,5 @@
  ```
  
  ## Credits
- [Petani Kode](https://www.petanikode.com)
- [Jago Webdev](https://www.jagowebdev.com)
+ 1. [Petani Kode](https://www.petanikode.com)
+ 2. [Jago Webdev](https://www.jagowebdev.com)
