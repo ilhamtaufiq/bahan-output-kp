@@ -4,15 +4,19 @@
 - Database that laravel supports, actually can be:
   - Bawaan XAMPP yang tadi kamu sudah download, jangan lupa install dulu. Kalo udah ada versi lain, rename yang versi lama.
 - PHP
-  - [Cara setting path php di Windows] (https://www.petanikode.com/php-cmd)
+  - [Cara setting path php di Windows](https://www.petanikode.com/php-cmd)
 - Composer
-  - [Cara Install Composer di Windows] (https://jagowebdev.com/cara-install-menjalankan-composer-di-windows)
+  - [Cara Install Composer di Windows](https://jagowebdev.com/cara-install-menjalankan-composer-di-windows)
 - Laravel 5.4
-  - Install
+  - Buka cmd terus masuk ke direktori apa aja dengan perintah cd *ganti nama_proyek_kamu dengan nama proyek kamu apa aja
  ```php
- $ composer create-project --prefer-dist laravel/laravel blog "5.4.*"
+ $ composer create-project --prefer-dist laravel/laravel nama_proyek_kamu "5.4.*"
  ```
-  - Beres install laravel, masih di folder yang sama. Coba jalankan perintah 
+ Coba masuk ke direktori proyek kamu, lalu jalankan perintah ini 
  ```php
  $ php artisan serve
  ```
+ 
+ ## Credits
+ [Petani Kode](https://www.petanikode.com)
+ [Jago Webdev](https://www.jagowebdev.com)
