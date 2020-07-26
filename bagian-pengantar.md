@@ -1,4 +1,4 @@
-## Minimal Sistem dan Pengetahuan Dasar
+## Spesifikasi Wajib dan Pengetahuan Dasar (ameh teu lieur ngke na lamun error)
 - Web Server:
   - [XAMPP](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/5.6.28/xampp-win32-5.6.28-1-VC11-installer.exe/download)
 - Database that laravel supports, actually can be:
